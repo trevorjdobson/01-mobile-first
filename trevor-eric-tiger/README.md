@@ -1,7 +1,7 @@
 # Mobile First
 
 **Author**: Trevor Dobson, Eric Cobb, Tiger Hsu
-**Version**: 1.0.0
+**Version**: 1.1.0
 
 ## Overview
 This application is a blog that utilizes responsive web design to achieve functionality across different viewports.
@@ -17,8 +17,8 @@ We ended up using the Icomoon.io library, Atom, and Google Dev tools..
 
 11-30-17 07:45pm - Completed README.md
 
+12-26-2017 06:34pm - Added style sheets; added hamburger menu and icon menu.
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with GET and POST routes for the book resource.
 
 ## Credits and Collaborations
 
